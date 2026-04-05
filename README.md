@@ -20,8 +20,3 @@ Currently building practical skills in Python and real-world problem solving.
 - TensorFlow (learning)  
 - Git & GitHub  
 - Jupyter Notebook / Google Colab  
-
----
-
-## 📫 How to reach me
-- LinkedIn: (https://www.linkedin.com/in/raiyan-bin-zaman/)
